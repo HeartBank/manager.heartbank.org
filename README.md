@@ -1,2 +1,2 @@
-# endpoint.heartbank.cloud
-HeartBank Cloud Endpoint
+# HeartBank Cloud Endpoint
+Documentation
