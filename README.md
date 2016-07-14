@@ -1,2 +1,2 @@
-# HeartBank Cloud Endpoint
+# HeartBank Managers
 Documentation
