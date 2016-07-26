@@ -1,2 +1,0 @@
-# HeartBank Managers
-Documentation
